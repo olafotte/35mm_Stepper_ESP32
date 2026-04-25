@@ -53,4 +53,4 @@ As seguintes bibliotecas devem estar instaladas na sua Arduino IDE:
 * **v1.0:** Lógica básica de movimento, controle touch e integração BLE Keyboard.
 
 ---
-Desenvolvido por Maker.
+Desenvolvido por Olaf Otte.
